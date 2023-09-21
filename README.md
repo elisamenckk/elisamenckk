@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil🖤
 
-<!--
-**elisamenckk/elisamenckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é **Elisa Menck**
 
-Here are some ideas to get you started:
+- Estou estudando no [_Alura_](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem _JavaScript_
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## você entra em contato comigo em 📪
+
+- elisa.menck.souza@escola.pr.gov.br
+
+- ## ou em ⤵️
+- _eli_menck_
+
+- ![](https://media.tenor.com/hRiPtsp-m0IAAAAM/the-simpsons-homer-simpson.gif)
